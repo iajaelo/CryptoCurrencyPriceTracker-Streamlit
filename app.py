@@ -12,7 +12,7 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-st.title("Crypto Price Dashboard: Top 500 Cryptocurrencies by market capitalization")
+st.title("Crypto Price Dashboard: Top 500 Cryptocurrencies by market capitalization 2024/25")
 st.markdown("### Real-time OHLC Analysis • Trends • Volatility • Performance")
 
 # -------------------------- Load Data --------------------------
